@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoraErcelik
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R & Pyhton programming language
+- 🌱 I’m currently learning Pyhton programming language
 - 📫 How to reach me,
 - my E-mail: ercelikbora@gmail.com
 - my Linkedln account: https://www.linkedin.com/in/bora-erçelik
